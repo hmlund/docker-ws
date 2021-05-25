@@ -11,4 +11,3 @@
 - Sjekk i docker desktop at du har en container som kjører
 - åpne localhost:8080 i en nettleser og se at du får opp hello world.
 
--
